@@ -1,5 +1,5 @@
 *.pd linguist-detectable=false 
-*.pd linguist-language=PureData
+*.pd linguist-language="Pure Data"
 
 ##* linguist-vendored
 ##*.pd linguist-vendored=false
