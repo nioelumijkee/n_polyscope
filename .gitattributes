@@ -1,3 +1,8 @@
-* linguist-vendored
-*.pd linguist-vendored=false
+*.pd linguist-detectable=false 
 *.pd linguist-language=PureData
+
+##* linguist-vendored
+##*.pd linguist-vendored=false
+##*.java linguist-detectable=true 
+##*.html linguist-detectable=false 
+##*.xml linguist-detectable=false
