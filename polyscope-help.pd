@@ -1,4 +1,4 @@
-#N canvas 163 91 895 550 10;
+#N canvas 198 99 895 550 10;
 #X obj 104 38 polyscope;
 #A saved 2 0 138 22 24 -50 138 22;
 #N canvas 50 127 800 559 manipulations 0;
@@ -127,8 +127,6 @@
 #X text 390 429 polyscope - multisignal source analysis tool.;
 #X text 401 463 Polyscope.Mike Daliot Native-Instruments Dec.2008,
 f 22;
-#X text 578 459 Convert reaktor ensemble Nioelumijke.Feb.2020, f 12
-;
 #X text 324 12 Mouse1 - enable wave \, Shift-Mouse1 - disble wave.
 ;
 #X obj 104 360 s \$0-m;
@@ -139,5 +137,5 @@ f 22;
 #X connect 0 3 1 3;
 #X connect 0 4 1 4;
 #X connect 0 5 1 5;
-#X connect 1 0 11 0;
-#X connect 12 0 0 0;
+#X connect 1 0 10 0;
+#X connect 11 0 0 0;
