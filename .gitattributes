@@ -1,5 +1,3 @@
 * linguist-vendored
-#* linguist-vendored
 *.pd linguist-vendored=false
-*.pd linguist-language=Pure Data
-#*.pd linguist-language=Java
+*.pd linguist-language=PureData
